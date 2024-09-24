@@ -7,7 +7,7 @@ permalink: /community/
  <section className="community">
   <h2>Community involvement</h2>
   <section>
-  Note: I haven't had as much community involvement in the last few years due to a high level of demand in my current role. My focus has swapped to mentoring within my teams, rather than external to Atlassian for the time being.
+  Note: I haven't had as much community involvement in the last few years due to prioritising mentoring within my own workplace and network.
   <section>
   <section>
     <h3>Girls in Tech Australia</h3>

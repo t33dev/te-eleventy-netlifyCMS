@@ -7,7 +7,7 @@ permalink: /about/
 <section class="aboutMe">
     <img src="/images/TarynOnline-8338(1).jpg" alt="Photo of Taryn with her two samoyed dogs" class="aboutImage"/>
     <h2>About me</h2>
-    <p>Just a person who loves learning, creating, reading, and most important of all: my two Samoyed dogs!</p>
+    <p>Just a person who loves learning, creating, reading, and most important of all: my Samoyed dog!</p>
     <p>I'm currently working as a software engineer, but I was previously a pastry chef specialising in handmade confectionery! 👩🏻‍🍳</p>
     <p></p>
 </section>
@@ -66,12 +66,23 @@ permalink: /about/
       </a>
       🥳
     </li>
+    <li>
+    <strong>June 2024:</strong> Decided to make a change and joined <a
+        className={utilStyles.linkFeature}
+        href="https://safetyculture.com/"
+      >
+        Safety Culture
+      </a>
+      💕
   </ul>
 </section>
 <section class="aboutWork">
-<p>I'm most passionate about mentoring junior developers and about diversity, equality and inclusion in the tech industry. </p>
+<p>I'm passionate about diversity, equality and inclusion in the tech industry. Due to this, my two favourite things are:
+<ol>
+<li>Mentoring junior devs who don't fit the standard software engineer stereotype</li>
+<li>Building accessible user interfaces</li></ol></p>
 
-<p>I love to improve user experiences for customers, but most of all enjoy working within highly collaborative teams who value openness and empathy. </p>
+<p>I love to improve user experiences for all customers, but really appreciate working within highly collaborative teams who value openness and empathy. </p>
 
 <p>In my experience, fostering an environment where individuals feel empowered to share their ideas freely not only enhances creativity but also leads to innovative solutions. I firmly believe that diversity in perspectives drives better outcomes, and I am committed to advocating for inclusive practices that celebrate differences and promote equity.</p>
 
