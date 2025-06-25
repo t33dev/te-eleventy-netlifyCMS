@@ -5,8 +5,10 @@ permalink: /community/
 ---
  <section className="community">
 
-<p>Note: I took a bit of a break from community involvement between 2022-2025 where I was mostly focused on mentoring within my role at Atlassian, and then afterwards navigating both a job change and health issues.</p>
+
   <h2>Community involvement</h2>
+
+<p>Note: I took a bit of a break from community involvement between 2022-2025 where I was mostly focused on mentoring within my role at Atlassian, and then afterwards navigating both a job change and health issues.</p>
 
   <section>
     <h3>Co-organiser at The F Factor: Tech Women</h3>
