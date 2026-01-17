@@ -84,7 +84,7 @@ permalink: /about/
 <li>Mentoring junior devs who don't fit the standard software engineer stereotype</li>
 <li>Building accessible user interfaces</li></ol></p>
 
-<p>I love to improve user experiences for all customers, but really appreciate working within highly collaborative teams who value openness and empathy. </p>
+<p>I love to improve user experiences for all users, but really appreciate working within highly collaborative teams who value openness and empathy. </p>
 
 <p>In my experience, fostering an environment where individuals feel empowered to share their ideas freely not only enhances creativity but also leads to innovative solutions. I firmly believe that diversity in perspectives drives better outcomes, and I am committed to advocating for inclusive practices that celebrate differences and promote equity.</p>
 
