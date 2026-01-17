@@ -3,7 +3,6 @@ layout: layouts/page.njk
 title: About
 permalink: /about/
 ---
-
 <section class="aboutMe">
     <img src="/images/TarynOnline-8338(1).jpg" alt="Photo of Taryn with her two samoyed dogs" class="aboutImage"/>
     <h2>About me</h2>
@@ -71,9 +70,12 @@ permalink: /about/
         className={utilStyles.linkFeature}
         href="https://safetyculture.com/"
       >
-        Safety Culture
+        SafetyCulture
       </a>
-      💕
+       💕</li>
+
+<li>
+    <strong>January 2026:</strong> Promoted to Senior Software Engineer ☺️</li>
   </ul>
 </section>
 <section class="aboutWork">
