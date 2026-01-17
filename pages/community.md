@@ -3,15 +3,27 @@ layout: layouts/page.njk
 title: Community
 permalink: /community/
 ---
-
  <section className="community">
+
+
   <h2>Community involvement</h2>
+
+<p>Note: I took a bit of a break from community involvement between 2022-2025 where I was mostly focused on mentoring within my role at Atlassian, and then afterwards navigating both a job change and health issues.</p>
+
   <section>
-  Note: I haven't had as much community involvement in the last few years due to prioritising mentoring within my own workplace and network.
-  <section>
+    <h3>Co-organiser at The F Factor: Tech Women</h3>
+    <p> Early 2025 I joined <a
+        class="linkFeature"
+        href="https://www.meetup.com/en-AU/the-f-factor-tech-women/"
+      >
+        the F Factor's
+      </a>
+organising committee. Our purpose is to be a holistic support network for the entire duration of our members' technology careers. We want to see more women making it into technology leadership and fewer women exiting the sector, mid-career.</p>
+<p>With a great team on board, we are back this year with our "Stronger Together" theme and some fantastic events and speakers to support a variety of careers, both in person in Sydney and online.</p>
   <section>
     <h3>Girls in Tech Australia</h3>
     <p> Early 2023 I spoke at a Girls in Tech Australia event for <a href="https://www.linkedin.com/posts/tarynewens_career-tech-engineering-activity-7043335496776777728-4Ycg">"A night with female leaders in engineering"</a>. It was a great opportunity to share on a variety of topics such as what inspired our career paths, how we manage competition in a highly competitive field and how we adapt to the fast pace environment of tech engineering.</p>
+</section><section>
     <h3>The Purpose Project</h3>
     <p>
       At the end of 2021 I was able to participate in
